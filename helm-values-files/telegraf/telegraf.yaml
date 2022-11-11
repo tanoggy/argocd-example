@@ -3,7 +3,7 @@ yotpo:
   chartName: telegraf
   chartPath: https://helm.influxdata.com/
   chartVersion: 1.8.18
-  namespace: infra
+  namespace: default
 
 ## Default values.yaml for Telegraf
 ## This is a YAML-formatted file.
